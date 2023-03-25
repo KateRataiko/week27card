@@ -24,7 +24,6 @@
     padding: 15px;
   }
 
-
   .card-razmer, .card-traffic{
     padding: 15px;
   }
@@ -58,3 +57,13 @@
   .contact-card.black .card-tarif {
     background-color: black;
   }
+
+  .mesyaz{
+    font-size: 3em;
+   
+}
+.dengi{
+   position: absolute;
+   left: 10%
+   
+}
