@@ -35,7 +35,7 @@
   
   .contact-card .card-name,
   .contact-card .card-tarif {
-    color: rgb(73, 50, 50)
+    color: white
   }
   
   .contact-card.blue .card-name,
@@ -58,12 +58,10 @@
     background-color: black;
   }
 
-  .mesyaz{
+  .mesyaz {
     font-size: 3em;
-   
 }
-.dengi{
+.dengi {
    position: absolute;
    left: 10%
-   
 }
