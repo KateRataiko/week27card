@@ -1,5 +1,5 @@
 import React from "react"
-import Card from "./components/contactCard.jsx"
+import Card from "./components/ContactCard.jsx"
 import './components/ContactCard.css';
 
 
